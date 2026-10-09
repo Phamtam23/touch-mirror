@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Touch Mirror</string>
+    <string name="accessibility_description">Mô phỏng thao tác chạm từ vùng điều khiển phía dưới lên vùng trên màn hình.</string>
+</resources>
